@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/static/js/main.2b0c7ede.chunk.js",
+    "main.js.map": "/static/js/main.2b0c7ede.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2ce4bf58.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2ce4bf58.js.map",
+    "static/js/2.bd775813.chunk.js": "/static/js/2.bd775813.chunk.js",
+    "static/js/2.bd775813.chunk.js.map": "/static/js/2.bd775813.chunk.js.map",
+    "static/js/3.097a3339.chunk.js": "/static/js/3.097a3339.chunk.js",
+    "static/js/3.097a3339.chunk.js.map": "/static/js/3.097a3339.chunk.js.map",
+    "index.html": "/index.html",
+    "static/js/2.bd775813.chunk.js.LICENSE.txt": "/static/js/2.bd775813.chunk.js.LICENSE.txt",
+    "static/media/220px-WhoShotMrBurnsclue.png": "/static/media/220px-WhoShotMrBurnsclue.0ebc3dbc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2ce4bf58.js",
+    "static/js/2.bd775813.chunk.js",
+    "static/js/main.2b0c7ede.chunk.js"
+  ]
+}
